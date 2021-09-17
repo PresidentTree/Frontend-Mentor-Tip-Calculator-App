@@ -1,8 +1,8 @@
 # Frontend-Mentor-Tip-Calculator-App
 My solution to Frontend Mentor's Tip Calculator App challenge.
 
-![Desktop Calculator](https://raw.githubusercontent.com/PresidentTree/Frontend-Mentor-Tip-Calculator-App/main/Tip%20Calculator%20App%201.jpeg)
-![Mobile Calculator](https://raw.githubusercontent.com/PresidentTree/Frontend-Mentor-Tip-Calculator-App/main/Tip%20Calculator%20App%202.jpeg)
+![Desktop](https://raw.githubusercontent.com/PresidentTree/Frontend-Mentor-Tip-Calculator-App/main/Tip%20Calculator%20App%201.jpeg)
+![Mobile](https://raw.githubusercontent.com/PresidentTree/Frontend-Mentor-Tip-Calculator-App/main/Tip%20Calculator%20App%202.jpeg)
 
 ## Challenge
 Users should be able to:
